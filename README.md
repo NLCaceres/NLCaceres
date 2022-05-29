@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Nick Caceres, aspiring software dev, University of Southern California Biology & Loyola High School graduate, programming & foreign language enthusiast! 🇺🇸🇵🇪🇲🇽🇨🇳🇮🇹🇫🇷
+## 👋 Hi, I’m Nick Caceres, aspiring software dev, University of Southern California Biology & Loyola High School grad, programming & foreign language enthusiast! 🇺🇸🇵🇪🇲🇽🇨🇳🇮🇹🇫🇷🇰🇷
 ![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,ts,swift,py,ruby,php) ***- Just a few of my skills!***
 - 💥 I’d love to learn everything the wonderful world of software development has to offer! Here's what I've focused on lately!
     - SwiftUI, Swift Combine, and Swift's new concurrency features (async/await and actors in particular)
